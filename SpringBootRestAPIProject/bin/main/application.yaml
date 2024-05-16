@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/studentdatabase?useSSL=false
+    username: root
+    password: Preetha@2905
+     
+  jpa.hibernate.ddl_auto: create 
+ 
